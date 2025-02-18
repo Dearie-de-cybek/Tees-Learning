@@ -1,0 +1,42 @@
+body{
+    background-color: #004;
+    margin:0;
+    height:100vh;
+    display:grid;
+    place-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;  
+   }
+   article{
+    width: 400px;
+    background: #5f8ec0;
+    padding: 5%;
+    border-radius: 5%;
+}
+   img{
+    border-radius: 5%;
+    width: 100%;
+   }
+   .tag{
+    background-color: antiquewhite;
+    padding: 2% 5%;
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 4%;
+    color:rgb(83, 110, 206);
+   }
+
+   h1 a {
+    color: #fff;
+    font-size: 200%;
+    line-height: 120%;
+
+}
+
+a.subtag p{
+    margin: 0;
+    color: #b1c4d9;
+}

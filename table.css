@@ -1,0 +1,14 @@
+table{
+    width: 20%;
+    border: 1px solid black;
+
+}
+th, td {
+    text-align: left;
+  }
+
+  th {
+    font-size:25px;
+
+  }
+
