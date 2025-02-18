@@ -1,0 +1,25 @@
+body {
+  background-color: hsl(47, 88%, 63%);
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
+article {
+  background-color: white;
+  width: 30rem;
+  font-family: "Figtree";
+}
+
+p {
+  font-size: 16px;
+}
+.first {
+  background-color: hsl(47, 88%, 63%);
+  width: 5em;
+  border-radius: 3px;
+  padding: 4px;
+}
+.third {
+  color: hsl(0, 0%, 50%);
+}
