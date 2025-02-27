@@ -7,8 +7,17 @@ body {
 }
 article {
   background-color: white;
-  width: 30rem;
+  width: 20rem;
+  height:30em;
   font-family: "Figtree";
+  border-radius: 10px;
+  padding: 20px;
+  border:7px 10px solid black;
+}
+.f_image{
+  border-radius: 10px;
+  width:100%;
+
 }
 
 p {
@@ -19,7 +28,23 @@ p {
   width: 5em;
   border-radius: 3px;
   padding: 4px;
+  text-align:center;
+  font-weight: 900;
 }
 .third {
   color: hsl(0, 0%, 50%);
 }
+.footer{
+  display:flex;
+}
+#name{
+  font-weight: 800;
+  margin:auto 15px;
+
+}
+
+h2:hover{
+  color: hsl(47, 88%, 63%);
+
+}
+
